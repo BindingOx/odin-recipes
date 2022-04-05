@@ -10,3 +10,7 @@ Skills I will have demonstrated once I'm done:
 Self-reflection:
 
 I learned that `git add .` starts at the current folder and works into each sub-folder as appropriate. But it does not go _up_
+
+Hotkeys
+
+- Change all occurrences: ctrl + f2
